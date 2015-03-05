@@ -3,9 +3,9 @@
 Plugin Name: Shopp Lockdown
 Version: 1.0.0
 Description: Shopp Lockdown will watch failed credit card attempts and lock out repetitive failed transaction customer.
-Plugin URI: http://www.shopptoolbox.com
-Author: ShoppToolbox.com
-Author URI: http://www.shopptoolbox.com
+Plugin URI: http://www.tinyelk.com
+Author: tinyElk Studios
+Author URI: http://www.tinyelk.com
 
 	This plugin is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
